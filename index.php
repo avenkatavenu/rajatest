@@ -5,6 +5,9 @@
 // et Romain Bourdon <rromain@romainbourdon.com>
 // et Hervé Leclerc <herve.leclerc@alterway.fr>
 //  this jhhjjhj
+//venu
+//raja
+//krishna
 // Mise à jour par Herve Leclerc herve.leclerc@alterway.fr
 // Icônes par Mark James <http://www.famfamfam.com/lab/icons/silk/>
 //------
@@ -533,6 +536,7 @@ a:hover {
 	$projectContents
 	</ul>
 	</div>
+	<br>
 	<div class="third right">
 	<h2>{$langues[$langue]['txtAlias']}</h2>
 	<ul class="aliases">
