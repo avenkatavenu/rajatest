@@ -1,0 +1,44 @@
+create a repositoy
+go to git folder
+git absh
+git clone address
+cd ur repository
+create a file in ur repositoty (desktop)
+git status
+files that are not synced will be displayed
+	git add urfilename
+	git status
+	got commit -m "this si anew file"
+still in ur desktop
+	git push
+pused into the got server
+verify in d web server'
+in another system
+	git pull
+new file swill be dispalted
+	git status
+	git add hisfile
+	gir add -A (adds all files)
+	git commit -m "another commit"
+	git push
+
+
+1st system
+
+git pull
+help
+
+
+do changes the same file in both systems
+
+
+git add -A
+git commt -m "anotehr by venu"
+
+
+git pull in first system
+then it will show conflict in some filename
+
+git add -A
+git commit enter
+git push
